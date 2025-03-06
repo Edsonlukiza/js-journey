@@ -1,0 +1,1 @@
+console.log(5+true);// true is taking the value of 1
